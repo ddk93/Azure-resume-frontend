@@ -1,0 +1,119 @@
+html{
+    height: 100%;
+}
+body {
+    background-color: #f7f1f1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 14px; 
+    
+}
+/*Header ============================================================================================================================*/
+
+.nav-link{
+    color: black;
+
+}
+/*About=============================================================================================================================*/
+.about-left{
+    display: inline-block;
+    padding-top: 100px;
+    padding-left: 250px;
+    padding-right: 150px;
+  
+}
+.mypic{
+    border-radius: 100px;
+}
+.about-right{
+    display: inline-block;
+    vertical-align: middle;
+}
+/*Footer============================================================================================================================*/
+.foot-items{
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;    
+}
+/* Resume =========================================================================================================================*/
+.cv-container {
+    max-width: 800px;
+    background: #fff;
+    margin: auto;
+    box-shadow: 1px 1px 2px #DAD7D7;
+    border-radius: 3px;
+    padding: 60px;
+    margin-top: 50px;
+}
+
+.cv-full-name{
+    font-size: 40px;
+    font-weight: bold;  
+    text-align: center; 
+    text-shadow: #736f6f;
+}
+.cv-contact-info{
+    text-align: center;
+
+}
+.cv-web{
+    padding-right: 10px;
+}
+.cv-git{
+    padding-right: 10px; 
+}
+.cv-linkedin{
+    padding-right: 10px;
+}
+.cv-gmail{
+    padding-right: 10px;
+}
+a{
+    padding-right: 20px;
+    color: black;
+}
+a:hover{
+    color: #54AFE4;
+}
+.cv-about{
+    padding-top: 30px;
+}
+.cv-cloud{
+    font-weight: bold;
+}
+.cv-section{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.cv-section-title{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.cv-section-list-item{
+    padding-top: 20px;
+}
+.cv-text{
+    font-style: italic;
+}
+.cv-name{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+.cv-right {
+    display: inline-block;
+    vertical-align: top;
+}
+.cv-left {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 50px;
+}
+/*===============================================================================================================================*/
+.counter{
+    text-align: center;
+}
